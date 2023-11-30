@@ -1,1 +1,1 @@
-# help
+Hello. Please help me get the money back. I use electrum wallet. Today I wanted to delete the address and send a new one for payment, but unfortunately I completely deleted the wallet. The recovery was via a ceed phrase. There is access, but there are no previous transactions, no new deposits.I have been trying to find it manually for 3 hours in Electrumseedtester. Please help me, what data do you need?# help
